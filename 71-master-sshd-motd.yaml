@@ -3,7 +3,7 @@ kind: MachineConfig
 metadata:
   name: 71-master-sshd-motd
   labels:
-    machineconfiguration.openshift.io/role: motd
+    machineconfiguration.openshift.io/role: master
 spec:
   config:
     ignition:
