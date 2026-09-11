@@ -10,7 +10,7 @@ spec:
       version: 3.2.0
     storage:
       files:
-      - path: /etc/infratest
+      - path: /etc/motd
         mode: 0644
         fileSystem: root
         overwrite: true
